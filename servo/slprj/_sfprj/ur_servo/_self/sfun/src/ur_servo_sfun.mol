@@ -1,0 +1,26 @@
+ur_servo_sfun.o
+c2_ur_servo.o
+ur_servo_sfun_registry.o
+half_type.o
+"/home/user/MATLAB/R2022b/bin/glnxa64/libmwjpegreader.so"
+-L/home/user/MATLAB/R2022b/bin/glnxa64
+-lmwblas
+-lmwlapack
+-lmwrgb2gray_tbb
+"-L/home/user/MATLAB/R2022b/bin/glnxa64" "-lmwsf_runtime"
+"-L/home/user/MATLAB/R2022b/bin/glnxa64" "-lfixedpoint"
+"-L/home/user/MATLAB/R2022b/bin/glnxa64" "-lut"
+"-L/home/user/MATLAB/R2022b/bin/glnxa64" "-lemlrt"
+"-L/home/user/MATLAB/R2022b/bin/glnxa64" "-lmwstringutil"
+"-L/home/user/MATLAB/R2022b/bin/glnxa64" "-lmwmathutil"
+"-L/home/user/MATLAB/R2022b/bin/glnxa64" "-lmwblas"
+"-L/home/user/MATLAB/R2022b/bin/glnxa64" "-lmwsl_log_load_blocks"
+"-L/home/user/MATLAB/R2022b/bin/glnxa64" "-lmwsimulink"
+"-L/home/user/MATLAB/R2022b/bin/glnxa64" "-lmwsl_sfcn_cov_bridge"
+"-L/home/user/MATLAB/R2022b/bin/glnxa64" "-lcovrt"
+"-L/home/user/MATLAB/R2022b/bin/glnxa64" "-lmwlapack"
+"-L/home/user/MATLAB/R2022b/bin/glnxa64" "-lmwsl_simtarget_core"
+"-L/home/user/MATLAB/R2022b/bin/glnxa64" "-lmwsl_simtarget_instrumentation"
+"-L/home/user/MATLAB/R2022b/bin/glnxa64" "-lmwslexec_simlog"
+"-L/home/user/MATLAB/R2022b/bin/glnxa64" "-lmwslccrt"
+"-L/home/user/MATLAB/R2022b/bin/glnxa64" "-lmwipp"
